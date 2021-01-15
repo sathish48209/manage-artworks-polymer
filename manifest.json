@@ -1,0 +1,7 @@
+{
+  "name": "manage-artworks-clone",
+  "short_name": "manage-artworks-clone",
+  "description": "This is a Clone of Manage Artworks application designed using Polymer Library which implements Web Componenets concepts.",
+  "start_url": "/",
+  "display": "standalone"
+}

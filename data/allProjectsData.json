@@ -1,0 +1,132 @@
+{
+	"allProjects": [
+		{
+			"imageUrl": "/images/component-logo.png",
+			"projectDescription": [
+				{
+					"field": "category",
+					"title": "Category",
+					"value": "Chips"
+				},
+				{
+					"field": "brand",
+					"title": "Brand",
+					"value": "Lays"
+				},
+				{
+					"field": "productName",
+					"title": "Product Name",
+					"value": "Fritto Lays"
+				},
+				{
+					"field": "packSize",
+					"title": "Pack Size",
+					"value": "200 ml"
+				},
+				{
+					"field": "componentType",
+					"title": "Component Type",
+					"value": "Label Black"
+				}
+			],
+			"status": "In Progress",
+			"dueDays": 37
+		},
+		{
+			"imageUrl": "/images/component-logo.png",
+			"projectDescription": [
+				{
+					"field": "category",
+					"title": "Category",
+					"value": "Juice"
+				},
+				{
+					"field": "brand",
+					"title": "Brand",
+					"value": "Frooti"
+				},
+				{
+					"field": "productName",
+					"title": "Product Name",
+					"value": "Cocacola"
+				},
+				{
+					"field": "packSize",
+					"title": "Pack Size",
+					"value": "100 ml"
+				},
+				{
+					"field": "componentType",
+					"title": "Component Type",
+					"value": "Label Black"
+				}
+			],
+			"status": "In Progress",
+			"dueDays": 37
+		},
+		{
+			"imageUrl": "/images/component-logo.png",
+			"projectDescription": [
+				{
+					"field": "category",
+					"title": "Category",
+					"value": "Chips"
+				},
+				{
+					"field": "brand",
+					"title": "Brand",
+					"value": "Kurkure"
+				},
+				{
+					"field": "productName",
+					"title": "Product Name",
+					"value": "Kurkure Masti"
+				},
+				{
+					"field": "packSize",
+					"title": "Pack Size",
+					"value": "100 gms"
+				},
+				{
+					"field": "componentType",
+					"title": "Component Type",
+					"value": "Label Black"
+				}
+			],
+			"status": "In Progress",
+			"dueDays": 37
+		},
+		{
+			"imageUrl": "/images/component-logo.png",
+			"projectDescription": [
+				{
+					"field": "category",
+					"title": "Category",
+					"value": "Soft Drink"
+				},
+				{
+					"field": "brand",
+					"title": "Brand",
+					"value": "kalimark"
+				},
+				{
+					"field": "productName",
+					"title": "Product Name",
+					"value": "Bovonto"
+				},
+				{
+					"field": "packSize",
+					"title": "Pack Size",
+					"value": "500 ml"
+				},
+				{
+					"field": "componentType",
+					"title": "Component Type",
+					"value": "Label Black"
+				}
+			],
+			"status": "In Progress",
+			"dueDays": 37
+		}
+	]
+}

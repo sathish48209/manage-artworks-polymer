@@ -1,0 +1,58 @@
+{
+	"dashboardMetrics": [
+		{
+			"id": 1,
+			"title": "My Inbox",
+			"processes": [
+				{
+					"name": "Artwork Approval Process",
+					"totalProjects": 17,
+					"onTimeProjects": 0,
+					"delayedProjects": 17
+				},
+				{
+					"name": "Project Initiation Process",
+					"totalProjects": 3,
+					"onTimeProjects": 1,
+					"delayedProjects": 2
+				}
+			]
+		},
+		{
+			"id": 2,
+			"title": "Initiated Projects",
+			"processes": [
+				{
+					"name": "Artwork Approval Process",
+					"totalProjects": 38,
+					"onTimeProjects": 8,
+					"delayedProjects": 30
+				},
+				{
+					"name": "Project Initiation Process",
+					"totalProjects": 31,
+					"onTimeProjects": 26,
+					"delayedProjects": 5
+				}
+			]
+		},
+		{
+			"id": 3,
+			"title": "All Projects",
+			"processes": [
+				{
+					"name": "Artwork Approval Process",
+					"totalProjects": 38,
+					"onTimeProjects": 28,
+					"delayedProjects": 10
+				},
+				{
+					"name": "Project Initiation Process",
+					"totalProjects": 38,
+					"onTimeProjects": 8,
+					"delayedProjects": 30
+				}
+			]
+		}
+	]
+}

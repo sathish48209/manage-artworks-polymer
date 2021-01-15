@@ -1,0 +1,73 @@
+{
+	"navbarMetrics": [
+		{
+			"title": "",
+			"shortName": "",
+			"links": [
+				{
+					"id": "dashboard",
+					"name": "Dashboard",
+					"to": "/dashboard",
+					"icon": "home"
+				},
+				{
+					"id": "newProject",
+					"name": "Start a new Project",
+					"to": "/newProject",
+					"icon": "check-circle"
+				}
+			]
+		},
+		{
+			"id": "workflow",
+			"title": "Workflow",
+			"shortName": "W",
+			"links": [
+				{
+					"id": "inbox",
+					"name": "Inbox",
+					"to": "/inbox",
+					"icon": "move-to-inbox"
+				},
+				{
+					"id": "myProjects",
+					"name": "My Projects",
+					"to": "/myProjects",
+					"icon": "notification:folder-special"
+				},
+				{
+					"id": "allProjects",
+					"name": "All Projects",
+					"to": "/allProjects",
+					"icon": "folder"
+				}
+			]
+		},
+		{
+			"id": "assetLibrary",
+			"title": "Asset Library",
+			"shortName": "AL",
+			"links": [
+				{
+					"id": "search",
+					"name": "Search",
+					"to": "/search",
+					"icon": "device:location-searching"
+				},
+				{
+					"id": "browse",
+					"name": "Browse",
+					"to": "/browse",
+					"icon": "icons:search"
+				}
+			]
+		},
+		{
+			"id": "reports",
+			"title": "Reports",
+			"shortName": "R",
+			"to": "/reports",
+			"links": []
+		}
+	]
+}
